@@ -1,63 +1,59 @@
 <div align="center">
-
-# Hi there, I'm Fewnice 👋
-
-### I'm a Developer, Data Scientist, and UI/UX Designer.
-
-I thrive at the intersection of data, design, and development, crafting solutions that are not only powerful under the hood but also intuitive and beautiful to use.
-
+  <a href="https://github.com/Fewnice">
+    <img src="http://googleusercontent.com/image_collection/image_retrieval/5115914724459909411_0" width="100%"/>
+  </a>
 </div>
 
+<div align="center">
+  <h1>
+    <img src="http://googleusercontent.com/image_collection/image_retrieval/3265373347089647031_0" width="30px" style="margin-right: 10px;">
+    Hey, I'm Fewnice! 
+    <img src="http://googleusercontent.com/image_collection/image_retrieval/3265373347089647031_0" width="30px" style="margin-left: 10px;">
+  </h1>
+</div>
+
+<div align="center">
+  <strong>A Developer who crafts experiences, a Data Scientist who unveils stories in data, and a UI/UX Designer who builds bridges between users and technology.</strong>
+</div>
+
+<br>
+
 ---
 
-### 🚀 What I Do
+### <p align="center">🔮 My Arsenal of Skills 🔮</p>
 
--   **👨‍💻 Development:** Building robust and scalable applications from front-end to back-end.
--   **📊 Data Science:** Extracting meaningful insights from complex data to drive decision-making.
--   **🎨 UI/UX Design:** Designing user-centric interfaces that provide a seamless and engaging experience.
+<details align="center">
+  <summary>Click to expand my Tech Stack</summary>
+  <br>
+  <p align="center">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>
+    <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="45" height="45"/></a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/></a>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/></a>
+  </p>
+</details>
 
 ---
 
-### 💻 My Tech Stack & Tools
-
-Here are some of the technologies I'm proficient in:
+### <p align="center">📊 My GitHub Activity 📊</p>
 
 <p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-   <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-### ✨ My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Fewnice's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Fewnice's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight&hide_border=true" alt="Fewnice's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dracula&hide_border=true" alt="Fewnice's Top Languages" />
 </p>
 
 ---
 
-### 📫 Let's Connect!
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of an amazing team.
+### <p align="center">💬 Let's Connect and Create! 💬</p>
 
 <p align="center">
   <a href="https://discord.com/users/fewnice">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-fewnice-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   </p>
+
+<div align="center">
+  <img src="http://googleusercontent.com/image_collection/image_retrieval/15196144763782165972_0" width="80%"/>
+</div>
