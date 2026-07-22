@@ -1,69 +1,81 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vcenter=true&width=550&height=50&lines=Hi+%F0%9F%90%8B%2C+I'm+Fewnice;Software+Developer;Cybersecurity+Enthusiast;Full-Stack+%26+Bot+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F0FF&center=true&vcenter=true&width=600&height=60&lines=👋+Hey+there!+I'm+Fewnice;🛡️+Cybersecurity+Enthusiast;⚡+Full-Stack+%26+Backend+Developer;🚀+Building+TlawatnaBot+%26+FlexBot;✨+Welcome+to+my+Github+Space!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-FEWNICE-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <img src="https://img.shields.io/badge/Status-Building_%26_Securing-00F0FF?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Focus-Backend_%26_CyberSec-FF007F?style=for-the-badge" alt="Focus">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,25&height=180&section=header&text=FEWNICE&fontSize=70&fontColor=fff&animation=twinkle&fontAlignY=35" width="100%" />
 </p>
 
----
-
-### 👨‍💻 About Me
-
-Hello! I'm **Fewnice**, a dedicated Software Developer and Systems Enthusiast with a strong focus on building high-performance backend systems, interactive bots, and exploring cybersecurity.
-
-- 🔭 **Currently working on**: Bot ecosystems, automated streaming systems, and web security tooling.
-- 🛡️ **Cybersecurity Experience**: Web Application Security, Ethical Hacking fundamentals, Vulnerability Assessment, and System Hardening.
-- ⚡ **Core Philosophy**: Clean design, efficient code execution, and secure architecture.
-- 💬 **Ask me about**: Python, Go, Node.js, React, Bot Development, and Web Security.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-#### 💻 **Programming Languages & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<p align="center">
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-FEWNICE-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity_%26_Backend-00F0FF?style=for-the-badge&logo=target&logoColor=black" alt="Focus">
+  <img src="https://img.shields.io/badge/Status-Available_for_Projects-00FF66?style=for-the-badge&logo=codefactor&logoColor=black" alt="Status">
 </p>
 
-#### 🛡️ **Cybersecurity & Tools**
-<p>
-  <img src="https://img.shields.io/badge/Cybersecurity-Pentesting_%26_Defense-000000?style=for-the-badge&logo=security&logoColor=00FF66" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+<br>
 
----
-
-### 🚀 Featured Projects
-
-<table>
+<table align="center">
   <tr>
-    <td width="50%">
-      <h3 align="center">📖 TlawatnaBot</h3>
-      <p>A feature-complete bot platform dedicated to Quranic recitations, automated audio streams, and religious media broadcasting across platforms.</p>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ About Me</h3>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Audio%20Stream-FF007F?style=flat-square" />
+        I am <b>Fewnice</b>, a passionate Software Developer and Systems Programmer who loves building robust backends, interactive bot platforms, and exploring low-level security & pentesting.
+      </p>
+      <ul>
+        <li>🔭 <b>Building</b>: Next-gen bot architectures & automated media streaming platforms.</li>
+        <li>🛡️ <b>Security</b>: Web application pentesting, vulnerability assessments, network defense.</li>
+        <li>💡 <b>Interests</b>: Clean code architecture, APIs, reverse engineering, system optimization.</li>
+        <li>💬 <b>Ask me about</b>: Python, Go, Node.js, React, PHP, and CyberSec!</li>
+      </ul>
+    </td>
+    <td width="50%" valign="center" align="center">
+      <img src="https://media.giphy.com/media/qgQUGG4dbv5BL4GYnm/giphy.gif" width="85%" alt="Coding Gif" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎨 Tech Stack & Tooling
+
+<div align="center">
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> |
+| **Frontend & Web** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> |
+| **Cybersecurity** | <img src="https://img.shields.io/badge/Pentesting-Web_%26_Network-FF0055?style=for-the-badge&logo=kali-linux&logoColor=white"/> <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> |
+
+</div>
+
+---
+
+### 🚀 Highlighted Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📖 TlawatnaBot</h3>
+      <p align="center">
+        <i>A high-performance media bot for continuous Quranic streams and Islamic audio broadcasting.</i>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FFmpeg-0078D7?style=flat-square&logo=ffmpeg&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streaming-FF007F?style=flat-square"/>
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">⚡ FlexBot</h3>
-      <p>An advanced, customizable multi-purpose bot engine designed for dynamic command handling, automated tasks, and real-time integration.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Automation-00F0FF?style=flat-square" />
+      <p align="center">
+        <i>A dynamic, modular bot framework built for multi-platform integration and workflow automation.</i>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Automation-00F0FF?style=flat-square"/>
       </p>
     </td>
   </tr>
@@ -71,27 +83,35 @@ Hello! I'm **Fewnice**, a dedicated Software Developer and Systems Enthusiast wi
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📈 GitHub Analytics & Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Fewnice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Fewnice GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fewnice&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Fewnice&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" alt="Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fewnice&layout=compact&theme=cyberpunk&hide_border=true" alt="Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fewnice&theme=tokyonight&hide_border=true" alt="Fewnice GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fewnice&theme=cyberpunk&hide_border=true" alt="Streak" />
 </p>
 
 ---
 
-### 📬 Connect & Contact
+### 🎮 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</p>
+
+---
+
+### 📫 Connect With Me
 
 <p align="center">
   <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-FEWNICE-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord FEWNICE">
+    <img src="https://img.shields.io/badge/Discord-FEWNICE-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
 
 <p align="center">
-  <sub><i>"Building scalable systems & securing digital frontiers."</i></sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,25&height=100&section=footer" width="100%" />
 </p>
