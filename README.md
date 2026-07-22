@@ -1,6 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F0FF&center=true&vcenter=true&width=600&height=60&lines=👋+Hey+there!+I'm+Fewnice;🛡️+Cybersecurity+Enthusiast;⚡+Full-Stack+%26+Backend+Developer;🚀+Building+TlawatnaBot+%26+FlexBot;✨+Welcome+to+my+Github+Space!" alt="Typing SVG" />
-</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,25&height=180&section=header&text=FEWNICE&fontSize=70&fontColor=fff&animation=twinkle&fontAlignY=35" width="100%" />
